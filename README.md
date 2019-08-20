@@ -18,4 +18,7 @@ Giftie for Chatie
 1. [Blockie.io: Visual flow based programming for back-end development](https://www.indiegogo.com/projects/blockie-io-visual-flow-based-programming-for-back-end-development/)
 1. [Wikipedia: Flow-based programming (FBP)](https://en.wikipedia.org/wiki/Flow-based_programming)
 1. [Flow-based Programming - Panta rhei (Panta rhei) - Everything flows.](https://jpaulm.github.io/fbp/)
+1. [Flow Based Programming - A concurrent and parallel computing technology](https://jpaulm.github.io/fbp/knol_flow-based-programming.htm)
+1. [Flow-Based Programming for JavaScript — NoFlo 1.0 is here!](https://noflojs.org/)
+1. [Flow-Based Programming Presentation - J Paul Morrison](https://www.jpaulmorrison.com/fbp/FBPnew.ppt)
 
