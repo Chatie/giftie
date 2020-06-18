@@ -26,6 +26,11 @@ Giftie for Chatie
 1. [Flow-Based Programming - Collective mind for FBP standards](https://github.com/flowbased)
 1. [Flow Based Programming - a compact specification for Flow-based paradigm and its terminology](https://github.com/flowbased/flowbased.org/wiki)
 
+## Related Projects
+
+1. [Visually build a full featured chat bot for Telegram, Facebook Messenger and Slack with Node-RED. Almost no coding skills required.](https://github.com/guidone/node-red-contrib-chatbot)
+
+
 ### Chat UI
 
 1. [DoChat - 基于 ionic2 的聊天应用](https://github.com/wujun4code/DoChat)
