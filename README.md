@@ -11,6 +11,8 @@ Giftie for Chatie
 1. Any Application
 1. Research without Boundaries
 
+- [Component approach for chatbot, Sean Wu, Nov 3, 2021](https://chatbotslife.com/component-approach-for-chatbot-dca67b36d888)
+[Component approach for chatbot, Sean Wu, Nov 3, 2021](https://chatbotslife.com/component-approach-for-chatbot-dca67b36d888)
 ## Resources
 
 1. [2017 Flow-Based Programming for JavaScript](https://www.youtube.com/watch?v=pf6SytVR2KU)
